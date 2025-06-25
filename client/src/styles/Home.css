@@ -1,0 +1,39 @@
+.HomePage{
+    margin-top: 25vh;
+}
+
+.home-categories-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10vh;
+    margin-bottom: 15vh;
+}
+
+.home-category-card{
+    text-align: center;
+    width: 210px;
+    height: fit-content;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    padding: 15px;
+}
+.home-category-card:hover{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+.home-category-card img{
+
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 1px solid #c6c4c4;
+
+}
+
+
+.home-category-card h5{
+
+    padding-top: 5px;
+    color: #4c4747;
+}
+

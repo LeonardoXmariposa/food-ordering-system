@@ -1,0 +1,132 @@
+.IndividualRestaurant-page{
+    margin-top: 15vh;
+}
+.IndividualRestaurant-page h2{
+    text-align: center;
+}
+.IndividualRestaurant-page p{
+    text-align: center;
+}
+
+.IndividualRestaurant-body{
+
+    height: fit-content;
+    display: flex;   
+    width: 100%;
+    margin-bottom: 10vh;
+}
+
+
+.restaurants-menu-filter{
+    width: 20%;
+    border-right:1px solid #c6c4c4 ;
+    border-top:1px solid #c6c4c4 ;
+    min-height: 78vh;
+    padding-left: 2vw;
+    padding-top: 3vh;
+    /* background-color: aqua; */
+}
+
+.restaurants-menu-filter h4{
+    color: rgb(67, 101, 130);
+}
+.restaurant-menu-filters-body{
+    padding-left: 2vw;
+}
+
+.restaurant-menu-filters-body h6{
+    color: rgb(83, 111, 137);
+}
+
+.menu-sub-filter-body{
+    padding-left: 1.5vw;
+    margin-bottom: 3vh;
+
+}
+.menu-sub-filter-body label{
+    color: rgb(101, 128, 151);
+    cursor: pointer;
+}
+.menu-sub-filter-body input{
+    cursor: pointer;
+}
+
+.restaurants-menu-body{
+    width: 100%;
+    height: 74vh;
+    padding: 0vh 2vw 0vh 2vw ;
+}
+
+.restaurants-menu-body h3{
+    color: rgb(76, 113, 141);
+}
+
+.restaurants-menu{
+    margin-top: 3vh;
+    height: 75vh;
+    width: 100%;
+    overflow-y: scroll;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    row-gap: 30px;
+    padding-bottom: 5vh;
+    padding-top: 3vh;
+}
+
+.restaurant-menu-item{
+    display: flex;
+    justify-content: center;
+}
+
+.restaurant-dish{
+
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    border-radius: 0.8rem;
+    display: flex;
+    flex-direction: column;
+}
+.restaurant-dish:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.restaurant-dish img{
+
+    width: 90%;
+    margin-left: 5%;
+    height: 30vh;
+    border-radius: 0.8rem;
+}
+
+.restaurant-dish .restaurant-dish-data{
+
+    margin-left: 5%;
+    width: 90%;
+    text-align: center;
+}
+
+.restaurant-dish .restaurant-dish-data h6{
+
+    margin: 0;
+}
+
+.restaurant-dish .restaurant-dish-data p{
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+
+
+.restaurant-dish .restaurant-dish-data h5{
+
+    font-size: 1rem;
+    color: rgb(215, 65, 65);
+    margin-bottom: 10px;
+}
+
+.restaurant-dish .restaurant-dish-data h5 p{
+    font-size: 0.8rem;
+    margin: 0;
+}
