@@ -1,4 +1,4 @@
-# Security Policy Just Fur Fun Rules
+# Security Policy Just For Fun Rules
 
 ## Supported Versions
 
