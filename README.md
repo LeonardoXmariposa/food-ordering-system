@@ -69,6 +69,11 @@ For support or inquiries, please contact the project maintainer at [].
 
 [Watch Video Demo](https://youtu.be/r4hmxT6eeEs?t=74) <!-- Replace with real video link if available -->
 
+## 📄 Document Template
+
+You can find the document templates for this project here:  
+[https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -137,3 +142,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 📄 Document Template
+
+You can find the document templates for this project here:  
+[https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
+ 
