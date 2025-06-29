@@ -2,6 +2,15 @@
 
 A full-stack food ordering system built using the MERN stack (MongoDB, Express, React, Node.js).
 
+## 📽 Demo
+
+[Watch Video Demo](https://youtu.be/ntOTdudM9wE) <!-- Replace with real video link if available -->
+
+## 📄 Document Template
+
+You can find the document templates for this project here:  
+[https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
+
 ## 📁 Project Structure
 
 - `/client` – React frontend
@@ -65,14 +74,6 @@ This project is licensed under the MIT License, which permits anyone to use, mod
 
 For support or inquiries, please contact the project maintainer at [].
 
-## 📽 Demo
-
-[Watch Video Demo](https://youtu.be/ntOTdudM9wE) <!-- Replace with real video link if available -->
-
-## 📄 Document Template
-
-You can find the document templates for this project here:  
-[https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
 
 # Getting Started with Create React App
 
