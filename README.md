@@ -67,7 +67,7 @@ For support or inquiries, please contact the project maintainer at [].
 
 ## 📽 Demo
 
-[Watch Video Demo](https://youtu.be/r4hmxT6eeEs?t=74) <!-- Replace with real video link if available -->
+[Watch Video Demo](https://youtu.be/ntOTdudM9wE) <!-- Replace with real video link if available -->
 
 ## 📄 Document Template
 
