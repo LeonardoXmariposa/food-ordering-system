@@ -6,6 +6,13 @@ A full-stack food ordering system built using the MERN stack (MongoDB, Express, 
 
 [Watch Video Demo](https://youtu.be/ntOTdudM9wE) <!-- Replace with real video link if available -->
 
+## 📽 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/ntOTdudM9wE/hqdefault.jpg)](https://leonardoxmariposa.github.io/food-ordering-systemopia0)
+
+🔗 [Click here to open the video page directly](https://leonardoxmariposa.github.io/food-ordering-systemopia0)
+
+
 ## 📄 Document Template
 
 You can find the document templates for this project here:  
