@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./images/1000016632.png" alt="Cover"/>
+  <img src="./images/1000016632.png" alt="Cover" />
 </p>
+
 
 # 🍔 Food Ordering App - MERN Stack
 
