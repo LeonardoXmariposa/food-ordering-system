@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./images/Cover.png" alt="Cover"/>
+  <img src="./images/1000016632.png" alt="Cover"/>
 </p>
+
 # 🍔 Food Ordering App - MERN Stack
 
 A full-stack food ordering system built using the MERN stack (MongoDB, Express, React, Node.js).
