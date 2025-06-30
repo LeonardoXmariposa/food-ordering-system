@@ -95,4 +95,4 @@ This project is licensed under the MIT License, which permits anyone to use, mod
 
 ## 📞 Contact
 
-For support or inquiries, please contact the project maintainer at [].
+For support or inquiries, please contact the project maintainer at [sripriya.akula2005@gmail.com].
