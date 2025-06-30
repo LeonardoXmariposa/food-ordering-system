@@ -55,8 +55,36 @@ Experience the project in action and explore the official documentation below:
 ---
 ## 📁 Project Structure
 
-- `/client` – React frontend
-- `/server` – Node.js/Express backend
+A clean and scalable architecture with a clear separation of concerns between frontend and backend:
+
+```
+📦 Food-Ordering-App/
+├── 📁 client/              # 🖥️ React.js frontend with Tailwind CSS
+│   ├── public/            # Static files and entry HTML
+│   └── src/               # React source code
+│       ├── assets/        # Images, icons, etc.
+│       ├── components/    # Reusable components
+│       ├── pages/         # Route-based pages
+│       ├── routes/        # App routing config
+│       ├── services/      # API calls
+│       ├── context/       # React Context API
+│       └── App.js         # Main App entry
+│
+├── 📁 server/              # 🛠️ Node.js + Express backend
+│   ├── config/            # MongoDB & env setup
+│   ├── controllers/       # Business logic
+│   ├── models/            # Mongoose schemas
+│   ├── routes/            # Express routes
+│   ├── middleware/        # Auth & error handling
+│   └── index.js           # Server entry point
+│
+├── .env                   # Environment variables
+├── package.json           # Project dependencies
+├── README.md              # Project overview
+└── LICENSE                # License information
+```
+
+> ✅ Follows best practices with modular structure and clear folder roles.
 
 ## 🚀 Features
 
