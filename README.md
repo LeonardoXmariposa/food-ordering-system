@@ -136,13 +136,47 @@ Experience a full-fledged food ordering platform with real-time functionality, p
 
 > 🧠 Built with performance, usability, and scalability in mind — this platform makes online food ordering not just easy, but enjoyable.
 ---
+## 🧪 Tech Stack
 
-### 🧪 Tech Stack
+> 🚀 Powered by cutting-edge technologies & guided by AI — delivering speed, scalability, and style.
 
-- React + TailwindCSS for frontend
-- Node.js + Express.js for backend API
-- MongoDB + Mongoose for database
-- JWT + Bcrypt for authentication and security
+<table>
+  <tr>
+    <td><strong>💻 Frontend</strong></td>
+    <td>
+      ⚛️ <strong>React.js</strong> – For dynamic, component-based UI<br/>
+      🎨 <strong>Tailwind CSS</strong> – For fast and responsive styling
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠 Backend</strong></td>
+    <td>
+      🟢 <strong>Node.js</strong> – For scalable JavaScript runtime<br/>
+      🚂 <strong>Express.js</strong> – For flexible server-side routing and APIs
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄 Database</strong></td>
+    <td>
+      🍃 <strong>MongoDB</strong> – NoSQL database for flexible storage<br/>
+      🧩 <strong>Mongoose</strong> – ODM for schema modeling and validation
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🔐 Security</strong></td>
+    <td>
+      🛡 <strong>JWT</strong> – Token-based user authentication<br/>
+    </td>
+    
+</table>
+
+> 💘 Built with code, caffeine… and just maybe, a little inspiration from someone special.  
+> ⚡ Fast. 🔒 Secure. 📱 Smooth on every screen — just like my intentions. 😉
+
+
+---
+
+
 
 ## 📦 Installation
 
