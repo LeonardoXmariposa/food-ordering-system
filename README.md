@@ -18,7 +18,8 @@
 [![LinkedIn – Sundar Singh Parasa](https://img.shields.io/badge/LinkedIn-Parasa%20Sundar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundar-singh-parasa-3856b8364)
 
 ### 🎨 Sarva Sree Lakshmi Manaswini  
-[![LinkedIn – Manaswini](https://img.shields.io/badge/LinkedIn-Manaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-manaswini-link)
+[![LinkedIn – Manaswini](https://img.shields.io/badge/LinkedIn-Manaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaswini-sarva-30a185351)
+
 
 ---
 
