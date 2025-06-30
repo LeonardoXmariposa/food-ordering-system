@@ -5,19 +5,18 @@ This folder contains official documents related to the **OrderOnTheGo: Your On-D
 ## Contents
 
 - **Project report (1).docx**  
-  Detailed project documentation including problem statement, objectives, system design, technology stack, implementation, and conclusion.
+  Draft version of the full project documentation including system overview, architecture, and planning.
 
 - **food ordering sys.pdf**  
-  Final formatted project report PDF version suitable for academic or institutional submission.
+  Cleanly formatted version of the project report ready for review or submission.
+
+- **project report.pdf**  
+  Final signed/compiled version of the report with complete content.
 
 - **readme.md**  
-  You are here! This file provides an overview of all documents present in this folder.
+  This file providing an overview of the documents in this folder.
 
-## Usage
+## Notes
 
-These documents serve as reference materials for understanding the planning, development, and deployment phases of the MERN stack-based Food Ordering System.
-
----
-
-> 📌 Note: For source code and implementation, check the `/client` and `/server` directories.
-
+- For source code, refer to the `/client` and `/server` directories.
+- All documents are intended for academic and review purposes only.
