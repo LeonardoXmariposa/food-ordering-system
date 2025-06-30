@@ -154,7 +154,7 @@ Experience a full-fledged food ordering platform with real-time functionality, p
 ---
 ## 🧪 Tech Stack
 
-> 🚀 Powered by cutting-edge technologies & guided by AI — delivering speed, scalability, and style.
+> 🚀 Powered by cutting-edge technologies & guided by smartbridge — delivering speed, scalability, and style.
 
 <table>
   <tr>
