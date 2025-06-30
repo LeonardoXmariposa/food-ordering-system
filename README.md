@@ -9,7 +9,7 @@
   <tr>
     <td>
 
-<a href="https://www.linkedin.com/in/sripriya-akula-30065b319" target="_blank">
+<a href="[https://www.linkedin.com/in/sripriya-akula-30065b319](https://www.linkedin.com/in/sripriya-akula-30065b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Sripriya%20Akula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><br/>
 
