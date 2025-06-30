@@ -5,38 +5,21 @@
 ---
 ## 🔗 Connect With Us & 👨‍💻 Team Members
 
-<table>
-  <tr>
-    <td>
+### 👑 Sripriya Akula  
+[![LinkedIn – Sripriya Akula](https://img.shields.io/badge/LinkedIn-Sripriya%20Akula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripriya-akula-30065b319)
 
-<a href="[https://www.linkedin.com/in/sripriya-akula-30065b319](https://www.linkedin.com/in/sripriya-akula-30065b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sripriya%20Akula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><br/>
+### 💡 Poojitha Pasupuleti  
+[![LinkedIn – Poojitha Pasupuleti](https://img.shields.io/badge/LinkedIn-Poojitha%20Pasupuleti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-poojitha-link)
 
-<a href="https://linkedin.com/in/your-poojitha-link" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Poojitha%20Pasupuleti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><br/>
+### 💻 Parasa Sundar Singh (SSP)  
+[![LinkedIn – Parasa Sundar Singh](https://img.shields.io/badge/LinkedIn-Parasa%20Sundar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundar-singh-parasa-3856b8364)
 
-<a href="https://linkedin.com/in/your-sundar-link" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Parasa%20Sundar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><br/>
+### 🎨 Sarva Sree Lakshmi Manaswini  
+[![LinkedIn – Manaswini](https://img.shields.io/badge/LinkedIn-Manaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-manaswini-link)
 
-<a href="https://linkedin.com/in/your-manaswini-link" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Manaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
 
-</td>
-<td>
-
-**Team ID:** LTVIP2025TMID55809  
-**Team Leader:** Sripriya Akula  
-**Member:** Poojitha Pasupuleti  
-**Member:** Parasa Sundar Singh (SSP)  
-**Member:** Sarva Sree Lakshmi Manaswini  
-
-</td>
-</tr>
-</table>
+**🆔 Team ID:** `LTVIP2025TMID55809`
 
 
 
