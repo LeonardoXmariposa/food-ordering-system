@@ -98,4 +98,23 @@ This project is licensed under the MIT License, which permits anyone to use, mod
 
 ## 📞 Contact
 
-For support or inquiries, please contact the project maintainer at [sripriya.akula2005@gmail.com].
+For support or inquiries, please contact the project maintainer at sripriya.akula2005@gmail.com
+
+
+---
+---
+
+## 👥 Team Details
+
+- **🏷️ Team ID:** LTVIP2025TMID55809  
+- **🏫 College:** DMS SVH College of Engineering  
+- **🎓 Department:** Computer Science & Engineering (CSE)  
+- **📅 Year:** 3rd Year (Entering Final Year - 2025 Batch)
+
+---
+
+## ❤️ Special Note
+
+> _Made with 💖 by our team, dedicated to learning, building, and sharing knowledge._  
+> _And a little extra love... just to impress someone very special._ 😊💫
+
