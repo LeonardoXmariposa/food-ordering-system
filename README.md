@@ -2,6 +2,17 @@
   <img src="./Images/1000016636 (1).png" alt="Cover" />
 </p>
 
+## Connect with Us
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)  
+
+## Our Team
+
+For details about our team members and roles, please see our [Team Page](./team.html).
+
 
 # 🍔 Food Ordering App - MERN Stack
 
