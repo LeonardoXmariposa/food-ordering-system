@@ -47,11 +47,26 @@ Experience the project in action and explore the official documentation below:
 ### 🔹 Project Documentation  
 📂 [View Complete Project Files & Templates »](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
 
----
-
 📌 _Both links include everything from system flow to architecture and actual working features — curated for evaluations and presentations._
 
+---
+## 📦 Installation
 
+### Server
+
+```bash
+cd server
+npm install
+npm start
+```
+
+### Client
+
+```bash
+cd client
+npm install
+npm start
+```
 ---
 ## 📁 Project Structure
 
@@ -175,26 +190,6 @@ Experience a full-fledged food ordering platform with real-time functionality, p
 
 
 ---
-
-
-
-## 📦 Installation
-
-### Server
-
-```bash
-cd server
-npm install
-npm start
-```
-
-### Client
-
-```bash
-cd client
-npm install
-npm start
-```
 
 ## 📖 Usage
 
