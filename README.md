@@ -2,16 +2,35 @@
   <img src="./Images/1000016636 (1).png" alt="Cover" />
 </p>
 
-## Connect with Us
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()  
-
-## Our Team
-
-For details about our team members and roles, please see our [Team Page](./team.html).
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 40px;">
+      <h3>Connect with Us</h3>
+      <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+      <a href="https://instagram.com/yourhandle" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+    <td valign="top" style="border-left: 2px solid #ddd; padding-left: 40px;">
+      <h3>Our Team</h3>
+      <ul style="list-style-type:none; padding-left: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        <li><strong>Team ID:</strong> LTVIP2025TMID55809</li>
+        <li><strong>Team Leader:</strong> Sripriya Akula</li>
+        <li><strong>Team Member:</strong> Poojitha Pasupuleti</li>
+        <li><strong>Team Member:</strong> Parasa Sundar Singh (SSP)</li>
+        <li><strong>Team Member:</strong> Sarva Sree Lakshmi Manaswini</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 # 🍔 Food Ordering App - MERN Stack
