@@ -27,7 +27,11 @@
 
 # 🍔 Food Ordering App - MERN Stack
 
-A full-stack food ordering system built using the MERN stack (MongoDB, Express, React, Node.js).
+The Food Ordering System is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse restaurants, explore menus, add items to their cart, and place orders online with ease. The platform supports multiple roles — including users, restaurant owners, and admins — each with dedicated functionalities and dashboards.
+
+Designed with a focus on usability, performance, and scalability, the system provides a smooth food ordering experience from start to finish, with responsive design for all devices.
+
+
 
 ## 📽 Demo
 
