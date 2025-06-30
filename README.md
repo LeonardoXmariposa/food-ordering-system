@@ -3,29 +3,24 @@
 </p>
 
 ---
+
 ## 🔗 Connect With Us & 👨‍💻 Team Members
+
+**🆔 Team ID:** `LTVIP2025TMID55809`
 
 ### 👑 Sripriya Akula  
 [![LinkedIn – Sripriya Akula](https://img.shields.io/badge/LinkedIn-Sripriya%20Akula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sripriya-akula-30065b319)
 
 ### 💡 Poojitha Pasupuleti  
-[![LinkedIn – Poojitha Pasupuleti](https://img.shields.io/badge/LinkedIn-Poojitha%20Pasupuleti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-poojitha-link)
+[![LinkedIn – Poojitha Pasupuleti](https://img.shields.io/badge/LinkedIn-Poojitha%20Pasupuleti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ### 💻 Parasa Sundar Singh (SSP)  
 [![LinkedIn – Parasa Sundar Singh](https://img.shields.io/badge/LinkedIn-Parasa%20Sundar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundar-singh-parasa-3856b8364)
 
 ### 🎨 Sarva Sree Lakshmi Manaswini  
-[![LinkedIn – Manaswini](https://img.shields.io/badge/LinkedIn-Manaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-manaswini-link)
+[![LinkedIn – Manaswini](https://img.shields.io/badge/LinkedIn-Manaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ---
-
-**🆔 Team ID:** `LTVIP2025TMID55809`
-
-
-
-
-
-
 
 # 🍔 Food Ordering App - MERN Stack
 
