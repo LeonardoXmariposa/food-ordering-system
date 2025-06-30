@@ -35,16 +35,24 @@ The system supports different roles:
 
 Built with a focus on clean design, fast performance, and mobile responsiveness, this application delivers a smooth online ordering experience across all devices.
 
+---
+
+## 🎬 Live Demo & Project Docs
+
+Experience the project in action and explore the official documentation below:
+
+### 🔹 Video Demonstration  
+🚀 [Watch the Full Demo on YouTube »](https://youtu.be/ntOTdudM9wE)
+
+### 🔹 Project Documentation  
+📂 [View Complete Project Files & Templates »](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
+
+---
+
+📌 _Both links include everything from system flow to architecture and actual working features — curated for evaluations and presentations._
 
 
-## 📽 Demo
-
-[Watch Video Demo](https://youtu.be/ntOTdudM9wE) 
-## 📄 Document Template
-
-You can find the document templates for this project here:  
-[https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
-
+---
 ## 📁 Project Structure
 
 - `/client` – React frontend
