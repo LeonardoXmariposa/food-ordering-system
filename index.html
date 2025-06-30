@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Team LTVIP2025TMID55809 - Food Ordering App</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #f9fafb;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      align-items: center;
+      padding: 2rem;
+    }
+    header {
+      width: 100%;
+      max-width: 900px;
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    header a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: #e2e8f0;
+      color: #1a202c;
+      text-decoration: none;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    header a:hover {
+      background-color: #3182ce;
+      color: white;
+      box-shadow: 0 4px 12px rgba(49,130,206,0.6);
+    }
+    header svg {
+      width: 24px;
+      height: 24px;
+      fill: currentColor;
+    }
+    main {
+      background: white;
+      max-width: 900px;
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+      padding: 2rem 3rem;
+    }
+    h1 {
+      text-align: center;
+      font-weight: 700;
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      color: #2d3748;
+    }
+    .team-id {
+      text-align: center;
+      font-weight: 600;
+      font-size: 1.1rem;
+      color: #4a5568;
+      margin-bottom: 2rem;
+      letter-spacing: 1.2px;
+    }
+    .team-members {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 2rem;
+    }
+    .member-card {
+      background: #edf2f7;
+      border-radius: 10px;
+      padding: 1.5rem 1.8rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .member-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 10px 20px rgba(49,130,206,0.3);
+      background: #bee3f8;
+    }
+    .member-name {
+      font-weight: 600;
+      font-size: 1.25rem;
+      color: #2b6cb0;
+      margin-bottom: 0.3rem;
+    }
+    .member-role {
+      font-weight: 500;
+      font-size: 1rem;
+      color: #4a5568;
+    }
+    footer {
+      margin-top: auto;
+      padding: 1rem 0;
+      font-size: 0.9rem;
+      color: #a0aec0;
+      text-align: center;
+      width: 100%;
+      max-width: 900px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <title>GitHub</title>
+        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.757-1.333-1.757-1.09-.745.083-.73.083-.73 1.205.085 1.84 1.237 1.84 1.237 1.07 1.835 2.807 1.305 3.492.997.108-.775.418-1.305.76-1.605-2.665-.3-5.466-1.335-5.466-5.93 0-1.31.47-2.38 1.236-3.22-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.3 1.23a11.5 11.5 0 013.003-.404c1.02.005 2.045.138 3.003.404 2.29-1.552 3.296-1.23 3.296-1.23.655 1.653.243 2.873.12 3.176.77.84 1.235 1.91 1.235 3.22 0 4.61-2.807 5.625-5.48 5.92.43.37.823 1.1.823 2.22 0 1.606-.015 2.896-.015 3.286 0 .32.216.694.825.576C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12z"/>
+      </svg>
+    </a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank" aria-label="LinkedIn">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <title>LinkedIn</title>
+        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.354V9h3.414v1.561h.049c.476-.9 1.637-1.852 3.37-1.852 3.602 0 4.268 2.37 4.268 5.455v6.288zM5.337 7.433a2.07 2.07 0 11.001-4.14 2.07 2.07 0 01-.001 4.14zm1.777 13.019H3.56V9h3.554v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.226.792 24 1.771 24h20.451C23.2 24 24 23.226 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/>
+      </svg>
+    </a>
+    <a href="https://twitter.com/yourhandle" target="_blank" aria-label="Twitter">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <title>Twitter</title>
+        <path d="M23.954 4.569c-.885.392-1.83.656-2.825.775 1.014-.611 1.794-1.574 2.163-2.724-.949.564-2.005.974-3.127 1.195-.897-.959-2.178-1.559-3.594-1.559-2.723 0-4.928 2.206-4.928 4.928 0 .39.045.765.127 1.124-4.094-.205-7.725-2.165-10.158-5.144-.424.722-.666 1.561-.666 2.457 0 1.69.86 3.178 2.17 4.05-.799-.025-1.55-.245-2.205-.612v.061c0 2.364 1.68 4.337 3.911 4.783-.41.111-.84.171-1.285.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.318-3.809 2.105-6.102 2.105-.395 0-.779-.023-1.17-.067 2.179 1.397 4.768 2.213 7.557 2.213 9.054 0 14-7.496 14-13.986 0-.21 0-.423-.015-.633.962-.695 1.8-1.562 2.46-2.549z"/>
+      </svg>
+    </a>
+    <a href="https://instagram.com/yourhandle" target="_blank" aria-label="Instagram">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <title>Instagram</title>
+        <path d="M7.75 2h8.5A5.75 5.75 0 0122 7.75v8.5A5.75 5.75 0 0116.25 22h-8.5A5.75 5.75 0 012 16.25v-8.5A5.75 5.75 0 017.75 2zm0 2A3.75 3.75 0 004 7.75v8.5A3.75 3.75 0 007.75 20h8.5a3.75 3.75 0 003.75-3.75v-8.5A3.75 3.75 0 0016.25 4h-8.5zm8.75 1.5a1.25 1.25 0 110 2.5 1.25 1.25 0 010-2.5zM12 7a5 5 0 110 10 5 5 0 010-10zm0 2a3 3 0 100 6 3 3 0 000-6z"/>
+      </svg>
+    </a>
+  </header>
+  <main>
+    <h1>Team LTVIP2025TMID55809</h1>
+    <p class="team-id">Food Ordering App - MERN Stack</p>
+    <div class="team-members">
+      <div class="member-card">
+        <div class="member-name">Sripriya Akula</div>
+        <div class="member-role">Team Leader</div>
+      </div>
+      <div class="member-card">
+        <div class="member-name">Poojitha Pasupuleti</div>
+        <div class="member-role">Team Member</div>
+      </div>
+      <div class="member-card">
+        <div class="member-name">Parasa Sundar Singh (SSP)</div>
+        <div class="member-role">Team Member</div>
+      </div>
+      <div class="member-card">
+        <div class="member-name">Sarva Sree Lakshmi Manaswini</div>
+        <div class="member-role">Team Member</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    &copy; 2024 Food Ordering App Team. All rights reserved.
+  </footer>
+</body>
+</html>
