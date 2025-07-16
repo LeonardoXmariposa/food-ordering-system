@@ -15,7 +15,6 @@
 [![LinkedIn – Poojitha Pasupuleti](https://img.shields.io/badge/LinkedIn-Poojitha%20Pasupuleti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-pasupuleti-01458a302)
 
 ### 💻 Sundar Singh Parasa (SSP)  
-[![LinkedIn – Sundar Singh Parasa](https://img.shields.io/badge/LinkedIn-Parasa%20Sundar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](🥺🥺🥺🥺🥺)
 
 ### 🎨 Sarva Sree Lakshmi Manaswini  
 [![LinkedIn – Manaswini](https://img.shields.io/badge/LinkedIn-Manaswini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaswini-sarva-30a185351)
