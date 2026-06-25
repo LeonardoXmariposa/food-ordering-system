@@ -207,6 +207,10 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the MIT License, which permits anyone to use, modify, and distribute the software freely, with proper attribution.
 
+## Legal
+- See LICENSE for the software license.
+- See DISCLAIMER.md for repository-specific notices regarding personal information, branding, and identifying content.
+
 ## 📞 Contact
 
 For support or inquiries, please contact the project maintainer at sripriya.akula2005@gmail.com
